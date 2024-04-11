@@ -1,11 +1,14 @@
-# Personal mode
-## Person portfolio
-# Dependencies
-## yarn install
+# Install Dependencies
+`yarn install`
 
-#Site
-## https://carlosaw.github.io/portfolio
-# Getting Started with Create React App
+# NodeJs version 16
+`nvm use 16`
+
+# Run project
+`yarn start`
+
+## Land Page
+[https://portfolio-casm.netlify.app/]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
